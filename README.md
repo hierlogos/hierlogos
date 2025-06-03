@@ -14,19 +14,19 @@ I am now actively pursuing opportunities in the data domain and am excited to co
 
 - 📈 **Visual Storytelling with Data**: Transforming complex data into clear, compelling dashboards and reports that drive understanding (using tools like Power BI, Plotly).
 
-### 🔧 Technologies & Tools
+### ⚙️ Technologies & Tools
 * **Programming Languages**: Python (Pandas, NumPy, Scikit-learn), SQL
 * **Databases & Cloud**: Google BigQuery
 * **Visualization**: Power BI, Python (Matplotlib, Seaborn, Plotly)
 * **Other Tools**: Git, Jupyter Notebooks
 
-Feel free to explore my repositories or **[connect](https://www.linkedin.com/in/laisvis-remeikis-853573171/)** with me on LinkedIn!
+Feel free to explore my repositories or **[connect](https://www.linkedin.com/in/laisvis-remeikis/)** with me on LinkedIn!
 
 <p align="center">
   <a href="mailto:laisvisr99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/laisvis-remeikis-853573171/" target="_blank">
+  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/laisvis-remeikis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
