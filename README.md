@@ -20,13 +20,13 @@ I am now actively pursuing opportunities in the data domain and am excited to co
 * **Visualization**: Power BI, Python (Matplotlib, Seaborn, Plotly)
 * **Other Tools**: Git, Jupyter Notebooks
 
-Feel free to explore my repositories or **[connect](https://www.linkedin.com/in/laisvis-remeikis/)** with me on LinkedIn!
+Feel free to explore my repositories or **[connect](https://www.linkedin.com/in/laisvisr/)** with me on LinkedIn!
 
 <p align="center">
   <a href="mailto:laisvisr99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/laisvis-remeikis/" target="_blank">
+  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/laisvisr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
